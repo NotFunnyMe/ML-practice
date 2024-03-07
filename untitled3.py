@@ -1,0 +1,1 @@
+import numpy as np #as stand for alise
